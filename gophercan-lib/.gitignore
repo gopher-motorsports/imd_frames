@@ -1,0 +1,8 @@
+~$GopherCAN.xlsx
+GopherCAN_network.h
+GopherCAN_network.c
+GopherCAN_names.h
+GopherCAN_names.c
+venv
+
+.vscode/settings.json
